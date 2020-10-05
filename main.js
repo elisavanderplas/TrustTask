@@ -107,7 +107,7 @@
         
             var welcome_block = {//make them press their spacebar to continue
                 type: 'text',
-                text: ['<p style = "text-align: center; font-size: 28px; color:gold">Press spacebar to continue.</p>'],
+                text: ['<p style = "text-align: center; font-size: 28px">Press spacebar to continue.</p>'],
                 data: { label: 'welcome' },
                 cont_key: 32
             };

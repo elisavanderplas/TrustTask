@@ -1,7 +1,5 @@
 ### Trust task ###
 
-Disclaimer: this project is work in progress.
-
 This repository contains code for running the ‘Trust Task’ online. This experiment consists of a ‘main.js’ script which calls and writes three sub-tasks: (1) calibration phase, (2) the Confidence Task and (3) the Advice-Taking task. 
 
 (1) Calibration phase (metaTask_prac.js) is a psychophysical experiment during which participants decide which of two boxes (draw_blankstimulus.js) contains a higher density of dots (draw_stimulus.js): the box on the left or the box on the right. The difference in number of dots between the left and right box (i.e. choice difficulty) is adjusted during the practice task (metaTask._prac.js) with a 2-up-1-down calibration (staircase2edit.js), which converges towards an approximate performance level of 71% for each participant. 
@@ -22,8 +20,6 @@ Anwyl-Irvine, A.L., Massonié J., Flitton, A., Kirkham, N.Z., Evershed, J.K. (20
 Gorilla in our midst: an online behavioural experiment builder.
 Behavior Research Methods.
 Doi: https://doi.org/10.3758/s13428-019-01237-x
-
-Click on the following link in a Chrome or Mozilla Firefox browser to see the complete Trust Task as embedded in Gorilla: https://research.sc/participant/login/dynamic/52C75E27-E04D-466F-B86B-A8E2F2E74251
 
 ### Disclaimer ###
 
